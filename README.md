@@ -1,5 +1,5 @@
 # ECE61800_Projects_SS
-Course projects for Purdue [ECE 61800 Numerical Electromagnetics][ECE618], Spring 2018. All necessary theories and formulas can be found in the textbook: Theory and Computation of Electromagnetic Fields ([Jin. 2015][Jin2015]).
+Course projects for Purdue [ECE 61800 Numerical Electromagnetics][ECE618], Spring 2018. All necessary theories and formulas can be found in the textbook: *Theory and Computation of Electromagnetic Fields* ([Jin. 2015][Jin2015]).
 
 ## Project 1: Finite-Difference Time-Domain (FDTD) method
 **Team members**: Chang Yang (ECE), Skanda Kotethota (ECE), Shuzhan Sun
